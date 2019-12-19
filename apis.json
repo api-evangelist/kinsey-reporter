@@ -1,0 +1,48 @@
+{
+    "name": "Kinsey Reporter",
+    "description": "A global mobile survey platform to share, explore, and visualize anonymous data about sex.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1437-kinsey-reporter.jpg",
+    "tags": [
+        "api provider",
+        "crowdsourcing",
+        "have api",
+        "sex",
+        "social",
+        "surveys"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kinsey-reporter\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kinsey Reporter",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1437-kinsey-reporter.jpg",
+            "humanURL": "http:\/\/kinseyreporter.org\/data",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kinsey-reporter-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kinsey-reporter-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/kinseyreporter.org\/data"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/KinseyReporter"
+        }
+    ]
+}
